@@ -1,0 +1,5 @@
+celery==4.4.7
+fastapi==0.65.1
+redis==3.5.3
+SQLAlchemy==1.4.15
+uvicorn==0.13.4
